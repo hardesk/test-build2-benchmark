@@ -1,0 +1,10 @@
+: 1
+name: test-using-benchmark
+version: 0.1.0-a.0.z
+summary: test-using-benchmark C++ executable
+license: other: proprietary ; Not free/open source.
+description-file: README.md
+url: https://example.org/test-using-benchmark
+email: valdemar.bucilko@gmail.com
+depends: * build2 >= 0.13.0
+depends: * bpkg >= 0.13.0
